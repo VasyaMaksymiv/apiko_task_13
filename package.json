@@ -1,0 +1,13 @@
+{
+  "name": "apiko-homework-mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.0.17"
+  },
+  "scripts": {
+    "db": "mongod",
+    "start": "index.js"
+  }
+}
